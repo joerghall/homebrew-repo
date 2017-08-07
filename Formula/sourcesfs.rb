@@ -1,4 +1,4 @@
-class SourcesFS < Formula
+class Sourcesfs < Formula
   desc "Provides a virtual file system for mapping source files in debuggers"
   homepage "https://github.com/joerghall/sourcesfs"
   url "https://github.com/joerghall/sourcesfs/releases/download/0.0.53/sourcesfs-osx10.10-x86_64-joerghall_install.0.0.53.r1dda6fb5.tar.gz"
