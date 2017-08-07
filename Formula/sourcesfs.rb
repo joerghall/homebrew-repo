@@ -7,6 +7,6 @@ class Sourcesfs < Formula
   version "0.0.53.r1dda6fb5"
   bottle :unneeded
   def install
-     bin.install sourcesfs
+     bin.install "sourcesfs"
   end
 end
